@@ -8,3 +8,5 @@ The steps included in this are:
 5) Pick up one of the option below 
 (Option 1) Can you find anomaly from the data? Please explain your findings. 
 (Option 2) Can you visualize the data to help understand the trip pattern? 
+
+If you can't see the Maps for the final question please copy paste the GitHub link https://github.com/nsnikhita/New-york-Green-Taxi-Challenge/blob/master/NewYork_TaxiData_final.ipynb in this website https://nbviewer.jupyter.org/  and try.
